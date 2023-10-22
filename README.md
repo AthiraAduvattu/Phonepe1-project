@@ -1,4 +1,4 @@
-# Phonepe1-project
+# Phonepe Pulse Data Visualization and Exploration: A User-Friendly Tool Using Streamlit and Plotly
 Data visualization project
 
 Phonepe-pulse Data extraction: Cloning the Github using script to fetch the data from the Phonepe pulse Github repository and storing it in a suitable format such as CSV or JSON.
